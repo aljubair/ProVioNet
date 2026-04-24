@@ -21,4 +21,3 @@ highly informative frames and busy spatial locations during violent incidents. I
 every frame in regular sequences for normal activity. These findings demonstrate that violence is not only
 predictable but also very likely to occur. This makes it possible to go from reactive surveillance to proactive
 action.
-INDEX T
